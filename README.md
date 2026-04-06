@@ -132,7 +132,7 @@ heart_risk_project/
 * Gerçek zamanlı uygulama geliştirme
 
 ---
-##Screenshots
+## Screenshots
 <img width="1913" height="927" alt="Ekran Görüntüsü (215)" src="https://github.com/user-attachments/assets/4635ef40-6509-417a-9b9d-cff180b082cd" />
 <img width="1913" height="924" alt="Ekran Görüntüsü (218)" src="https://github.com/user-attachments/assets/a550cfc3-9e3d-4095-a522-3afb36fed4f8" />
 
